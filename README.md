@@ -1,12 +1,24 @@
 # Hi,I'm npfs! 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=npfs06&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
 - ⚡ ctf酱油选手 web安全菜鸡
 - 🌱 活在当下的程序猿
 - 🤔 喜欢挖漏洞的白帽子
 
+
+
+
 [![个人博客](https://img.shields.io/badge/-blog（npfs06.top）-c12238?style=flat-square&logo=B&logoColor=white)](https://npfs06.top/)
+
 [![Github](https://img.shields.io/github/followers/npfs06?label=Github&style=social)](https://github.com/npfs06)
 [![Gmail Badge](https://img.shields.io/badge/gmail-npfs0606@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npfs0606@gmail.com)](mailto:npfs0606@gmail.com)
+
+
+
+---
+
+
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -16,12 +28,16 @@
 - 🔧 [![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974) [![GitHub](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562)](https://camo.githubusercontent.com/544426317a6c6226b7f6b3367232378ea367aa5001a41da4f302a77f9959909f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562) [![Markdown](https://camo.githubusercontent.com/cc37a8be0aeac01251fe533495a2b7f376eebbcc9017ebead3fed8121de5de43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e)](https://camo.githubusercontent.com/cc37a8be0aeac01251fe533495a2b7f376eebbcc9017ebead3fed8121de5de43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e)
 
 
+
+
+
 ## GitHub Infos
+
 <img src="https://github-profile-trophy.vercel.app/?username=npfs06&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=npfs06&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-<a href="https://github.com/npfs06">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npfs06&theme=buefy&layout=compact" />
-</a>
+
+
 
 
