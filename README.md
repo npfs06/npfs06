@@ -10,14 +10,13 @@
 
 
 
-[![个人博客](https://img.shields.io/badge/-blog（npfs06.top）-c12238?style=flat-square&logo=B&logoColor=white)](https://npfs06.top/)
+## follow me
+
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-npfs0606@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npfs0606@gmail.com)](mailto:npfs0606@gmail.com)
 
 
-
-
-
+[![个人博客](https://img.shields.io/badge/-blog（npfs06.top）-c12238?style=flat-square&logo=B&logoColor=white)](https://npfs06.top/)
 
 
 ## 🛠 Tech Stack
